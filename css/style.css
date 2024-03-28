@@ -26,7 +26,7 @@ body {
 }
 
 a {
-  color: #c6d352;
+  color: red;
   position: relative;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
@@ -78,17 +78,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #c6d352;
+  background: red;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #c6d352;
+  background: red;
 }
 
 ::selection {
   color: #fff;
-  background: #c6d352;
+  background: red;
 }
 
 #fh5co-header {
@@ -185,7 +185,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #666666;
 }
 #footer a {
-  color: #f9d623;
+  color: red;
 }
 #footer .fh5co-social {
   margin: 0;
@@ -202,7 +202,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #footer .fh5co-social li a {
   padding: 20px;
-  color: #f9d623;
+  color: red;
 }
 #footer .fh5co-social li a i {
   font-size: 30px;
@@ -232,7 +232,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #features .feature-center .icon {
   width: 90px;
   height: 90px;
-  background: #f9d623;
+  background: red;
   border: 4px solid rgba(0, 0, 0, 0.07);
   display: table;
   text-align: center;
@@ -273,7 +273,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .owl-carousel .owl-controls .owl-dot.active span {
   background: none !important;
-  border: 2px solid #c6d352;
+  border: 2px solid red;
 }
 
 .btn {
@@ -303,40 +303,40 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .btn-primary {
-  background: #c6d352;
+  background: red;
   color: #fff;
-  border: 2px solid #c6d352;
+  border: 2px solid red;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #c6d352 !important;
-  border-color: #c6d352 !important;
+  background: red !important;
+  border-color: red !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #c6d352;
-  border: 2px solid #c6d352;
+  color: red;
+  border: 2px solid red;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #c6d352;
+  background: red;
   color: #fff;
 }
 
 .btn-success {
-  background: #c6d352;
+  background: red;
   color: #fff;
-  border: 2px solid #c6d352;
+  border: 2px solid red;
 }
 .btn-success:hover, .btn-success:focus, .btn-success:active {
-  background: #c6d352 !important;
-  border-color: #c6d352 !important;
+  background: red !important;
+  border-color: red !important;
 }
 .btn-success.btn-outline {
   background: transparent;
-  color: #c6d352;
-  border: 2px solid #c6d352;
+  color: red;
+  border: 2px solid red;
 }
 .btn-success.btn-outline:hover, .btn-success.btn-outline:focus, .btn-success.btn-outline:active {
-  background: #c6d352;
+  background: red;
   color: #fff;
 }
 
@@ -451,7 +451,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #c6d352;
+  border-color: red;
 }
 
 textarea.form-control {
