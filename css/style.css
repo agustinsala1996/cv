@@ -20,13 +20,13 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.9;
-  color: #7f7f7f;
-  background: #fff;
+  color: #ff1493;
+  background: #4b0082;
   position: relative;
 }
 
 a {
-  color: red;
+  color: #00ffff;
   position: relative;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::selection {
   color: #fff;
-  background: red;
+  background: #00ffffff;
 }
 
 #fh5co-header {
@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6, figure {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
-  border: 10px solid #fff;
+  border: 10px solid #FF1493;
 }
 #fh5co-header .bio-photo a:after {
   display: none !important;
@@ -146,7 +146,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #000;
 }
 #fh5co-main strong {
-  color: #000;
+  color: #ffd700;
 }
 
 .fh5co-section {
